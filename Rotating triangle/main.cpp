@@ -110,3 +110,6 @@ int main(int argc, char** argv)
 
     glutMainLoop();
 }
+// 30 - 150 150
+// 30 - 100 100
+// 60 
